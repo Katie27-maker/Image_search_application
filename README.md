@@ -5,7 +5,7 @@
 2023.10.10 ~ 2023.10.20
 
 # 스킬
-Bootstrap ajax API jQuery
+html, css, Bootstrap ajax API jQuery
 
 # 구현 내용
 JavaScript 파일을 만들고 AJAX를 사용하여 이미지 API를 호출하고, 성공적으로 이미지를 불러오면 해당 이미지를 표시할 수 있도록 구현하였습니다.
