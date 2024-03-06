@@ -8,4 +8,4 @@
 Bootstrap ajax API jQuery
 
 # 구현 내용
-API연동
+JavaScript 파일을 만들고 AJAX를 사용하여 이미지 API를 호출하고, 성공적으로 이미지를 불러오면 해당 이미지를 표시할 수 있도록 구현하였습니다.
