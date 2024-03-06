@@ -1,6 +1,6 @@
 ![image](https://github.com/Katie27-maker/Image_search_application/assets/59760987/467b3f32-5a32-47c7-8060-8780ef5b3f2b)
 # 이미지 검색 어플리케이션
-국비기간에 만든 토이 프로젝트
+국비기간에 프론트시간에 만든 프로젝트
 
 # 프로젝트 기간
 2023.10.10 ~ 2023.10.20
