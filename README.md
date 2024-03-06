@@ -5,7 +5,7 @@
 2023.10.10 ~ 2023.10.20
 
 # 스킬
-Bootstrap ajax API
+Bootstrap ajax API jQuery
 
 # 구현 내용
 API연동
